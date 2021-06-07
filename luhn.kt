@@ -1,5 +1,5 @@
 /**
- * 	Luhn Algorithm translated for: Kotlin  v 1.5.0
+ *  Luhn Algorithm translated for: Kotlin  v 1.5.0
  *  Algorithm Version: 0.1.0
  *  Brennan Goins - June 6th 2021
  */

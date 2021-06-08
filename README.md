@@ -1,2 +1,2 @@
 # PersonalProjects
-A place for any of my code projects worth uploading
+A place for any code projects worth uploading
